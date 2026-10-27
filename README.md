@@ -12,7 +12,7 @@
 
 <br>
 
-# PYTHON PROGRAMMING LAB
+# DAA LAB
 
 ### LAB RECORD
 
